@@ -1,7 +1,3 @@
-Ótimo! Sua descrição do processo no Azure ML Studio está muito boa e já é um excelente ponto de partida para o README.md. Vamos refiná-la para torná-la ainda mais clara, engajadora e completa para quem for ler no GitHub.
-
-Aqui estão algumas sugestões para melhorar seu README.md, focando em clareza, impacto e detalhes relevantes para um projeto de Machine Learning:
-
 Projeto de Regressão: Previsão de Aluguel de Bicicletas com Azure ML Studio
 Este projeto demonstra a utilização do Azure Machine Learning Studio para construir e treinar um modelo de regressão capaz de prever o volume de aluguel de bicicletas com base em dados históricos. O foco foi explorar as funcionalidades de ML Automatizado (AutoML) para otimizar o processo de criação e seleção do modelo.
 
